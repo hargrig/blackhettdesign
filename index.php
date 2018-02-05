@@ -49,7 +49,7 @@
 			role="banner" 
 			style="background-image:url(images/cover_bg_3.jpg);" 
 			data-stellar-background-ratio="0.5">
-			
+
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
@@ -216,7 +216,6 @@
 		</div>
 	</div>
 	
-
 	<div id="fh5co-features" class="animate-box">
 		<div class="container">
 			<div class="services-padding">
