@@ -320,7 +320,7 @@
 	</div>
 
 	<div id="fh5co-consult">
-		<div class="video fh5co-video" style="background-image: url(images/px.jpg);">
+		<div class="video fh5co-video" style="background-image: url(images/px1.jpg);">
 			<div class="overlay"></div>
 		</div>
 		<div class="choose animate-box">
