@@ -70,7 +70,7 @@ function init() {
                 var p = data.results[0].geometry.location
                 var latlng = new google.maps.LatLng(p.lat, p.lng);
                 new google.maps.Marker({
-                    position: myLatlng,
+                    position: latlng,
                     map: map,
                     icon: 'images/loc.png'
                 });
